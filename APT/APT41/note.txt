@@ -1,0 +1,5 @@
+THREAT HUNTING: APT41 TTPs
+- APT41 is a threat group that researchers have assessed as Chinese state-sponsored espionage group conducting financially-motivated operations. 
+- Active since at least 2012, APT41 has been observed targeting healthcare, telecom, technology, and video game industries in 14 countries. 
+- APT41 overlaps at least partially with public reporting on groups including BARIUM and Winnti Group.
+- In the post, the researcher goes through the references on the APT41 MITRE page and showcases hunting opportunities.
