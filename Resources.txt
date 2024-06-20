@@ -1,0 +1,46 @@
+Cyber Threat Hunting Resources #1
+
+Cyber Threat Hunt 101 by Meisam Eslahi, Ph.D.
+https://www.youtube.com/watch?v=iISJExR4ZKQ&list=PLjDgWm_iu9awwyfyDMhX4cvG5H0-FSaN-
+
+Awesome Threat Detection by 0x4D31
+https://github.com/0x4D31/awesome-threat-detection
+
+Cyber Threat Hunting by A3sal0n
+https://github.com/A3sal0n/CyberThreatHunting
+
+Awesome Threat Hunting by threat-hunting
+https://github.com/threat-hunting/awesome_Threat-Hunting
+
+Threat Hunting Keywords by mthcht
+https://github.com/mthcht/ThreatHunting-Keywords
+
+Threat Hunter Playbook OTRF
+https://github.com/OTRF/ThreatHunter-Playbook
+
+Threat Hunting Toolkit by ethack
+https://github.com/ethack/tht
+
+Threat Seeker by Ine Labs
+https://github.com/ine-labs/ThreatSeeker
+
+Threat Hunting Content by GossiTheDog
+https://github.com/GossiTheDog/ThreatHunting
+
+Resource of Threat Hunting by SoulSec
+https://github.com/SoulSec/resource-threat-hunting
+
+Threat Hunting Samples by Mosse Security
+https://github.com/mosse-security/threat-hunting-samples
+
+APT Hunter by ahmedkhlief (Threat Hunting tool for windows event logs which made by purple team to detect APT movements hidden in the sea of windows event logs)
+https://github.com/ahmedkhlief/APT-Hunter
+
+Threat Hunting Tool 
+https://www.threathunting.net/
+
+Malware and Threat Hunter
+https://drive.google.com/file/d/1_fCwcCLB1f43NsRAgKX-uRjNMUyg8y1a/view
+
+Threat Hunting Introduction PT.1 eCTHP 
+https://drive.google.com/file/d/14DluguBRjlUt9GWTUpGIB802qnHD2Olp/view
